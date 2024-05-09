@@ -1,3 +1,6 @@
+(This is a work in progress to turn this into a library to be imported into a larger project of mine, but if anyone wants to use this once its done feel free)
+
+
 =======================================
 GBA Mus Ripper by Bregalad and CaptainSwag101
 Release 2.5; September 19, 2017
